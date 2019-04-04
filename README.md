@@ -6,7 +6,7 @@ IA HTML Cover Page Builder
 ## Development Journal
 ### 4/3/19
 1. #### Notes
-Project functioning, attempting to add to GitHub.
+    1. Project functioning, attempting to add to GitHub.
 2. #### Git Commands
     1. `git status`
     2. `git add .`
