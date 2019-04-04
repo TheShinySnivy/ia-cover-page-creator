@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ia-cover-page-creator/IACoverPageCreator.iml" filepath="$PROJECT_DIR$/ia-cover-page-creator/IACoverPageCreator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ia-cover-page-creator.iml" filepath="$PROJECT_DIR$/ia-cover-page-creator.iml" />
     </modules>
   </component>
 </project>
