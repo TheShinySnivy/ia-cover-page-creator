@@ -1,1 +1,0 @@
-# ia-cover-page-creator
